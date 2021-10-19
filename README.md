@@ -2,6 +2,16 @@
 
 ![ver](https://img.shields.io/badge/fragmentos-v.1.0.0-green)
 
+
+---
+**NOTA**
+
+Este repositorio es una copia de la última versión del repositorio alojado en los servidores de la Filmoteca. 
+Esta copia no cuenta con credenciales de acceso, IPs de servidores propios de la institución.
+Se anexa en el directorio _evidencias_ el registro de commits del repositorio original.
+
+---
+
 ## **Presentación**
 
 Este proyecto cubre la necesidad de reemplazar la aplicación actual de Fragmentos, la cual debido a las actualizaciones de las tecnologias utilizadas existen inconvenientes de compatibilidad, asi que se decidió reestrcturar la plataforma acorde a las tecnologias y prácticas utlizadas en el departamento.
