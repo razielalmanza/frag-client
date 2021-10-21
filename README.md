@@ -49,7 +49,7 @@ La instalación de NodeJS es automática al inicializar por primer vez el proyec
 Clonar el repositorio a un directorio local:
 
 ```
-$ git clone git@132.247.164.43:filmo/frag-client.git
+$ git clone git@safe-holder/frag-client.git
 ```
 
 La rama master siempre debe respetarse para ser la versión final de cada actualización. Por otro lado _dev_ debe ser la versión para juntar los cambios del equipo mientras se termina una nueva versión. Por lo tanto crea una rama a partir de _dev_.
@@ -120,7 +120,7 @@ donde _version_ es de tipo _v1.0.0_
 Al terminar el build se debe subir la imagen al servidor.
 
 ```
-docker push <ip_del_servidor>:5000/frag-client-dev
+docker push safe-holder/frag-client-dev
 ```
 
 Para hacer el deploy consulte la información de Docker en la [Wiki interna]().
